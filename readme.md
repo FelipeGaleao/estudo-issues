@@ -7,3 +7,5 @@ Nesse repositório, devemos ter cuidado ao fazer um conflito.
 Olá, o Vítor está fazendo um conflito **commit**
 
 ### Craindo a nova branch
+## Exercicio 03
+Olá, esse é o primeiro commit para o Exercício 03
